@@ -1,3 +1,3 @@
 def initialize(context):
-    pass
+    print 'hello'
 
