@@ -9,4 +9,5 @@ class school (Folder):
 
 def initialize(context):
     context.registerClass(school,constructors=(add_school,))
+print "this is sample format"
 
