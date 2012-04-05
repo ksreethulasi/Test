@@ -24,5 +24,4 @@ def add_product(context):
 
 def initialize(context):
     context.registerClass(Product, constructors=(new_file,add_product,))
-#   context.registerClass(Product, constructors=(add_product,)) 
 
